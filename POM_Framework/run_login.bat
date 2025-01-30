@@ -1,6 +1,6 @@
 @echo off
 :: Navigate to project directory
-cd /d D:\Selenium3\POM_Framework
+cd /d D:\POM_Framework
 
 ::setup virtual environment
 python -m venv venv
